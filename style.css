@@ -28,15 +28,7 @@ h3, h6 {
   color: #555;
 }
 
-/* strongタグとfontタグの表示 */
-strong {
-  font-weight: bold;
-  color: #cc0000;
-}
 
-font {
-  font-style: italic;
-}
 
 /* aリンクの装飾 */
 a {
