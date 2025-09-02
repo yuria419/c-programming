@@ -1,8 +1,9 @@
 /* 全体の背景とフォント設定 */
 body {
   font-family: "Arial", sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
+  background-image:url(‘https://cdn-mapple.net/Normal/%E6%BB%8B%E8%B3%80%E7%9C%8C/25000010_00026.jpg’) center center no-repeat;
+  background-size:  cover;
+  color: #fafe88;
   line-height: 1.6;
   padding: 20px;
 }
@@ -10,14 +11,14 @@ body {
 /* ヘッダータグの装飾 */
 h1 {
   font-size: 2.5em;
-  color: #0066cc;
+  color: #dea9ff;
   border-bottom: 3px solid #ccc;
   padding-bottom: 10px;
 }
 
 h2 {
   font-size: 2em;
-  color: #003366;
+  color: #01baa8;
   margin-top: 30px;
   border-left: 5px solid #66aaff;
   padding-left: 10px;
@@ -25,7 +26,7 @@ h2 {
 
 h3, h6 {
   font-weight: normal;
-  color: #555;
+  color: #fafe88;
 }
 
 
